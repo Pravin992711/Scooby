@@ -1,0 +1,23 @@
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Sidebar.jsx
+│   ├── TradingChart.jsx
+│   ├── DigitCircles.jsx
+│   ├── TradePanel.jsx
+│   ├── BalanceCard.jsx
+│   ├── BotPanel.jsx
+│   ├── TradeHistory.jsx
+│   └── MarketSelector.jsx
+
+├── pages/
+│   └── Dashboard.jsx
+
+├── services/
+│   └── derivApi.js
+
+├── hooks/
+│   └── useDeriv.js
+
+├── App.jsx
+└── main.jsx
